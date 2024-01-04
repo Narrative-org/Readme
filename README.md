@@ -1,5 +1,4 @@
-<img src="Narrative-GUI.mp4" alt="Narrative" width="800">
-
+[![Watch the video](https://img.youtube.com/vi/It-eD3fYVXE/maxresdefault.jpg)](https://youtube.com/shorts/It-eD3fYVXE?feature=share)
 # Narrative - Social Media App
 
 Narrative is a mobile-based social media app that revolutionizes the news and journalism industry. It empowers users, organizations, journalists, and freelancers to publish their work in the form of engaging blog posts, articles, media, and monetize their content using our comprehensive internal tools. With Narrative, media and news organizations can bid farewell to running individual websites to sell subscriptions and instead leverage our app to reach a wider audience. Users will no longer have to navigate the hassle of purchasing or setting up payment methods for subscribing to multiple media outlets. Instead, they can subscribe to any media outlet effortlessly using a single social account and payment method. Moreover, freelance writers, independent publishers, and journalists can also monetize their valuable work through our platform. Narrative aims to bring global news and information right to your fingertips, providing an inclusive and convenient experience for everyone.
