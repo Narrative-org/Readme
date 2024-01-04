@@ -1,3 +1,4 @@
+<img src="Narrative-GUI.mp4" alt="Narrative" width="800">
 
 # Narrative - Social Media App
 
